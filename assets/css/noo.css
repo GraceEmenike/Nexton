@@ -13762,12 +13762,13 @@ body.rtl .noo-pricing-table .noo-pricing-column .pricing-content .pricing-info i
 }
 .job-advanced-search {
   display: block;
-  left: 50%;
+  left: auto;
+  right: auto;
   position: absolute;
-  -webkit-transform: translate(-50%, 0px);
-  -ms-transform: translate(-50%, 0px);
-  -o-transform: translate(-50%, 0px);
-  transform: translate(-50%, 0px);
+  -webkit-transform: translate(20%, 0px);
+  -ms-transform: translate(20%, 0px);
+  -o-transform: translate(20%, 0px);
+  transform: translate(20%, 0px);
   z-index: 1;
   bottom: 2.142857142857143em;
 }
