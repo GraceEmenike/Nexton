@@ -462,7 +462,7 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   line-height: 1.2;
-  color: #44494b;
+  color: #242729;
   font-style: normal;
   -webkit-font-smoothing: auto;
   font-smoothing: auto;
@@ -689,10 +689,10 @@ a.text-danger:hover {
 }
 .bg-primary {
   color: #fff;
-  background-color: #EE0E0E;
+  background-color: rgba(165, 29, 23, 0.85);
 }
 a.bg-primary:hover {
-  background-color: #b48f05;
+    background-color: rgba(136, 25, 21, 0.85);
 }
 .bg-success {
   background-color: #dff0d8;
@@ -719,7 +719,7 @@ a.bg-danger:hover {
   background-color: #e4b9b9;
 }
 .bg-primary-overlay {
-  background: rgba(230, 183, 6, 0.95);
+  background: rgba(125, 20, 20, 0.73);
 }
 .bg-gray-overlay {
   background: rgba(68, 73, 75, 0.95);
@@ -2269,7 +2269,7 @@ tbody.collapse.in {
 }
 .panel-primary > .panel-heading {
   color: #ffffff;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: #EE0E0E;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
@@ -3500,7 +3500,7 @@ textarea.form-control-flat input {
 }
 .form-group .dropdown .dropdown-menu > li > a:focus,
 .form-group .dropdown .dropdown-menu > li > a:hover {
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   color: #ffffff;
 }
 /**
@@ -3666,7 +3666,7 @@ fieldset[disabled] .widget_newsletterwidget .newsletter-submit {
 .btn-primary,
 .widget_newsletterwidget .newsletter-submit {
   color: #ffffff;
-  background-color: #EE0E0E;
+    background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
 }
 .btn-primary:hover,
@@ -3682,7 +3682,7 @@ fieldset[disabled] .widget_newsletterwidget .newsletter-submit {
   opacity: 0.8;
   filter: alpha(opacity=80);
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
 }
 .btn-success {
@@ -3916,7 +3916,7 @@ a.thumbnail.active {
   color: #ffffff;
   text-decoration: none;
   outline: 0;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
 }
 .dropdown-menu > .disabled > a,
 .dropdown-menu > .disabled > a:hover,
@@ -5131,7 +5131,7 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
 }
 .noo-page-heading .page-title .count {
   font-size: 16px;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   padding: 5px 12px;
   border-radius: 18px;
   vertical-align: middle;
@@ -5431,7 +5431,7 @@ a.label:focus {
   background-color: #5e5e5e;
 }
 .label-primary {
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
@@ -5638,7 +5638,7 @@ a.label:focus {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
 }
 .nav-stacked > li {
   float: none;
@@ -6247,7 +6247,7 @@ a.label:focus {
   line-height: 1.6428571428571428em;
   color: #ffffff;
   text-align: center;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-radius: 10px;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
@@ -7074,7 +7074,7 @@ fieldset[disabled] .post-password-form input[type="submit"] {
   -webkit-transition: border-color color 0.2s ease;
   -o-transition: border-color color 0.2s ease;
   transition: border-color color 0.2s ease;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
   margin-top: 1.0714285714285714em;
   margin-bottom: 1.0714285714285714em;
@@ -7222,7 +7222,7 @@ fieldset[disabled] .read-more {
   opacity: 0.8;
   filter: alpha(opacity=80);
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
 }
 .entry-tags {
@@ -8524,7 +8524,7 @@ li.comment {
   -o-transition: border-color color 0.2s ease;
   transition: border-color color 0.2s ease;
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
   padding: 10px 3.2142857142857144em;
   float: left;
@@ -8670,7 +8670,7 @@ fieldset[disabled] .form-submit input[type="submit"] {
   opacity: 0.8;
   filter: alpha(opacity=80);
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
 }
 .form-submit input[type="submit"]:hover,
@@ -12111,7 +12111,7 @@ div.wpcf7 .screen-reader-response {
   -o-transition: border-color color 0.2s ease;
   transition: border-color color 0.2s ease;
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
   padding: 10px 30px;
   margin-top: 0;
@@ -12261,7 +12261,7 @@ fieldset[disabled] .wpcf7-submit {
   opacity: 0.8;
   filter: alpha(opacity=80);
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
 }
 .wpcf7-not-valid-tip {
@@ -13333,7 +13333,7 @@ body.rtl .noo-pricing-table .noo-pricing-column .pricing-content .pricing-info i
 @media (min-width: 768px) {
   .noo-step-icon .noo-step-icon-item:after,
   .noo-step-icon .noo-step-icon-item:before {
-    background: none repeat scroll 0 0 #ebbb06;
+    background: none repeat scroll 0 0 #fffbff;
     content: "";
     height: 10px;
     position: absolute;
@@ -13389,7 +13389,7 @@ body.rtl .noo-pricing-table .noo-pricing-column .pricing-content .pricing-info i
   }
 }
 .noo-step-icon .noo-step-icon-class:after {
-  border: 10px solid #ebbb06;
+  border: 10px solid #fffbff;
   -webkit-border-radius: 100%;
   border-radius: 100%;
   bottom: -1px;
@@ -14061,7 +14061,7 @@ body.rtl .noo-pricing-table .noo-pricing-column .pricing-content .pricing-info i
   -o-transition: border-color color 0.2s ease;
   transition: border-color color 0.2s ease;
   color: #FFFFFF;
-  background-color: #EE0E0E;
+    background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
   line-height: 1.3 !important;
   vertical-align: inherit;
@@ -14252,7 +14252,7 @@ fieldset[disabled] .navbar-nav li.menu-item-post-btn > a:hover {
   opacity: 0.8;
   filter: alpha(opacity=80);
   color: #44494b;
-  background-color: #EE0E0E;
+ background-color: rgba(165, 29, 23, 0.85);
   border-color: transparent;
 }
 .navbar-nav li.menu-item-post-btn > a:hover {
